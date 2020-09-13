@@ -45,9 +45,6 @@ The name expected for your common library
 
 **storybook**: the logic is based on [`storybook`](https://github.com/storybookjs/storybook)
 
-## **Example**
-
-
 ## **Development**
 
 ## `create-react-library` and `react-styleguildist`
@@ -57,7 +54,7 @@ Local development is broken into two parts (ideally using two tabs).
 First, run rollup to watch your `src/` module and automatically recompile it into `dist/` whenever you make changes.
 
 ```bash
-npm start # runs rollup with watch flag
+yarn start # runs rollup with watch flag
 ```
 
 The second part will be running the `example/` create-react-app that's linked to the local version of your module.
@@ -65,7 +62,8 @@ The second part will be running the `example/` create-react-app that's linked to
 ```bash
 # (in another tab)
 cd example
-npm start # runs create-react-app dev server
+yarn install
+yarn start # runs create-react-app dev server
 ```
 
 Now, anytime you make a change to your library in `src/` or to the example app's `example/src`, `create-react-app` will live-reload your local dev server so you can iterate on your component in real-time.
@@ -73,3 +71,19 @@ Now, anytime you make a change to your library in `src/` or to the example app's
 
 ## `storybook`: 
 Following the detailed `Storybook` document: https://storybook.js.org/
+
+## **Example**
+
+**Select template**
+
+![Select template](/preview/select-template.PNG)
+
+**Select project name**
+
+![Select project name](/preview/select-project-name.PNG)
+![Created successfully](/preview/created-successfully.PNG)
+
+**Watch your library in `/src`**
+
+![Watch you library](/preview/watch-your-library.PNG)
+![library](/preview/library.PNG)
