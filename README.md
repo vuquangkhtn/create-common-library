@@ -76,14 +76,14 @@ Following the detailed `Storybook` document: https://storybook.js.org/
 
 **Select template**
 
-![Select template](/preview/select-template.PNG)
+![Select template](https://github.com/vuquangkhtn/create-common-library/blob/master/preview/select-template.PNG?raw=true)
 
 **Select project name**
 
-![Select project name](/preview/select-project-name.PNG)
-![Created successfully](/preview/created-successfully.PNG)
+![Select project name](https://github.com/vuquangkhtn/create-common-library/blob/master/preview/select-project-name.PNG?raw=true)
+![Created successfully](https://github.com/vuquangkhtn/create-common-library/blob/master/preview/created-successfully.PNG?raw=true)
 
 **Watch your library in `/src`**
 
-![Watch you library](/preview/watch-your-library.PNG)
-![library](/preview/library.PNG)
+![Watch you library](https://github.com/vuquangkhtn/create-common-library/blob/master/preview/watch-your-library.PNG?raw=true)
+![library](https://github.com/vuquangkhtn/create-common-library/blob/master/preview/library.PNG?raw=true)
