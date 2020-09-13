@@ -9,13 +9,13 @@ The [create-common-library](https://www.npmjs.com/package/create-common-library)
 Using `npm`:
 
 ```
-npm i -g create-common-library
+npm i -g @vuquangkhtn/create-common-library
 ```
 
 Using `yarn`:
 
 ```
-yarn global add create-common-library
+yarn global add @vuquangkhtn/create-common-library
 ```
 
 ## **Usage**

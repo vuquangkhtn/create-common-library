@@ -1,5 +1,5 @@
 {
-  "name": "create-common-library",
+  "name": "@vuquangkhtn/create-common-library",
   "version": "1.0.2",
   "main": "dist/index.js",
   "scripts": {
