@@ -1,6 +1,6 @@
 {
   "name": "@vuquangkhtn/create-common-library",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
@@ -9,6 +9,19 @@
   "bin": {
     "create-common-library": "./dist/index.js"
   },
+  "keywords": [
+    "create-react-app",
+    "create",
+    "common",
+    "library",
+    "create-common-library",
+    "create-react-library",
+    "styleguidlist-library",
+    "storybook-library",
+    "common-library",
+    "components",
+    "components-library"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@types/ejs": "^2.6.0",
