@@ -1,5 +1,5 @@
 {
-  "name": "create-common-library",
+  "name": "<%= projectName %>",
   "version": "1.0.0",
   "description": "template for creating reusable common libraries for each project",
   "author": "quangvnguyen",
